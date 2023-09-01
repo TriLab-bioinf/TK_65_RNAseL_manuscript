@@ -1,3 +1,10 @@
+# RNAseq analysis of WT, RNAseL-KO and RNAseA samples induced with 2-5A/polyI:C
+# Agnes Karasik, Hernan Lorenzi, Nicholas Guydosh
+# 7/17/2023
+
+# Contact:** Nicholas Guydosh
+# Contact email: nicholas.guydosh@nih.gov
+
 
 suppressMessages(library("org.Hs.eg.db"))
 suppressMessages(library("pheatmap"))
