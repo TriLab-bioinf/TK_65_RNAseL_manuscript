@@ -1,0 +1,14 @@
+Base_name	Read_length	Sequencing_pool	Date_1st_submitted	Machine	Species	Strain_name	Genotype	Media	Comments	Group	Colection_time	25A	PolyIC	Inducer	Treatment
+AK006F	SE50	GL063	5/6/19	HiSeq3000	A549 human lung carinoma	A549	WT	RPMI with 10% FBS	"A549 wt, transfection Ctrl, 4.5 h"	Control	4.5h	-	-	None	None
+AK010F	SE50	GL064	5/6/19	HiSeq3000	A549 human lung carinoma	A549	WT	RPMI with 10% FBS	"A549 wt, 1 然 trimer 2-5A, 4.5 h"	Treated	4.5h	+	-	25A	None
+AK012F	SE50	GL064	5/6/19	HiSeq3000	A549 human lung carinoma	A549	WT	RPMI with 10% FBS	"A549 wt, 0.25 痢/ml poly I:C, 4.5 h"	Treated	4.5h	-	+	polyIC	None
+AK014F	SE50	GL070	10/3/19	HiSeq3000	A549 human lung carinoma	A549	WT	RPMI with 10% FBS	"A549 wt, transfection Ctrl, 4.5 h"	Control	4.5h	-	-	None	None
+AK020_21F	SE50	GL071	10/3/19	HiSeq3000	A549 human lung carinoma	A549	WT	RPMI with 10% FBS	"A549 wt, 1 然 trimer 2-5A, 4.5 h"	Treated	4.5h	+	-	25A	None
+AK019_20F	SE50	GL071	10/3/19	HiSeq3000	A549 human lung carinoma	A549	WT	RPMI with 10% FBS	"A549 wt, 0.25 痢/ml poly I:C, 4.5 h"	Treated	4.5h	-	+	polyIC	None
+AK018F	SE50	GL070	10/3/19	HiSeq3000	A549 human lung carinoma	A549	RNaseL_KO	RPMI with 10% FBS	"A549 RNase L KO, 0.25 痢/ml poly I:C, 4.5 h"	Treated	4.5h	-	+	polyIC	None
+AK007F	SE50	GL063	5/6/19	HiSeq3000	A549 human lung carinoma	A549	RNaseL_KO	RPMI with 10% FBS	"A549 RNase L KO, transfection Ctrl, 4.5 h"	Control	4.5h	-	-	None	None
+AK008F	SE50	GL063	5/6/19	HiSeq3000	A549 human lung carinoma	A549	RNaseL_KO	RPMI with 10% FBS	"A549 RNase L KO, 1 然 trimer 2-5A. 4.5 h"	Treated	4.5h	+	-	25A	None
+AK016F	SE50	GL070	10/3/19	HiSeq3000	A549 human lung carinoma	A549	RNaseL_KO	RPMI with 10% FBS	"A549 RNase L KO, transfection Ctrl, 4.5 h (replicate)"	Control	4.5h	-	-	None	None
+AK017F	SE50	GL070	10/3/19	HiSeq3000	A549 human lung carinoma	A549	RNaseL_KO	RPMI with 10% FBS	"A549 RNase L KO, 1 然 trimer 2-5A. 4.5 h (replicate)"	Treated	4.5h	+	-	25A	None
+AK029_30F	SE50	GL081	2/21/20	HiSeq3000	A549 human lung carinoma	A549	WT	RPMI with 10% FBS	" wt, 1 然 trimer 2-5A. 4.5 h"	Treated	4.5h	+	-	25A	None
+AK034F	SE50	GL082	2/21/20	HiSeq3000	A549 human lung carinoma	A549	RNaseL_KO	RPMI with 10% FBS	"A549 RNase L KO, 0.25 痢/ml poly I:C, 4.5 h (replicate)"	Treated	4.5h	-	+	polyIC	None
